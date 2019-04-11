@@ -27,7 +27,7 @@
     "capabilityVariant" : {
       "eClass" : "http://www.dfki.de/iui/basys/model/resourceinstance#//AssemblyCapabilityVariant",
       "id" : "_UzXidTnNEemMb7KLTLHqMg",
-      "name" : "Assemble Bed Request",
+      "name" : "Assemble Bed",
       "capability" : {
         "eClass" : "http://www.dfki.de/iui/basys/model/capability#//Fügen",
         "id" : "_gWMsdDnNEemMb7KLTLHqMg"
@@ -53,7 +53,7 @@
     "capabilityVariant" : {
       "eClass" : "http://www.dfki.de/iui/basys/model/resourceinstance#//AssemblyCapabilityVariant",
       "id" : "_FQJsNTnNEemMb7KLTLHqMg",
-      "name" : "Assemble Cabin Request",
+      "name" : "Assemble Cabin",
       "capability" : {
         "eClass" : "http://www.dfki.de/iui/basys/model/capability#//Fügen",
         "id" : "_N14L5DnNEemMb7KLTLHqMg"
@@ -78,7 +78,7 @@
     "capabilityVariant" : {
       "eClass" : "http://www.dfki.de/iui/basys/model/resourceinstance#//AssemblyCapabilityVariant",
       "id" : "_pxgwVTnNEemMb7KLTLHqMg",
-      "name" : "Assemble Chassis Request",
+      "name" : "Assemble Chassis",
       "capability" : {
         "eClass" : "http://www.dfki.de/iui/basys/model/capability#//Fügen",
         "id" : "_vSwyZDnNEemMb7KLTLHqMg"
@@ -188,7 +188,7 @@
       <bpmndi:BPMNShape id="EndEvent_1gl5sis_di" bpmnElement="EndEvent_1gl5sis">
         <dc:Bounds x="1224" y="201" width="36" height="36" />
         <bpmndi:BPMNLabel>
-          <dc:Bounds x="1321" y="237" width="90" height="20" />
+          <dc:Bounds x="1238" y="244" width="9" height="14" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="SequenceFlow_0ab8r4o_di" bpmnElement="SequenceFlow_0ab8r4o">
